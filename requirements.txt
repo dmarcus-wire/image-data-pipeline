@@ -1,0 +1,9 @@
+# necessary packages
+argparse
+imutils
+opencv-python
+opencv-contrib-python
+
+# for jupyter notebooks
+jupyter
+matplotlib
